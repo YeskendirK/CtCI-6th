@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/modules.xml
+.idea/CtCI-6th.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml

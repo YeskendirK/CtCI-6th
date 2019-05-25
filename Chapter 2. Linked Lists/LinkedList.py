@@ -53,3 +53,7 @@ class LinkedList:
         for i in range(n):
             self.add(randint(min_value, max_value))
         return self
+
+    def add_multiple(self, values):
+        for v in values:
+            self.add(v)

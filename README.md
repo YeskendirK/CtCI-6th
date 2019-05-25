@@ -1,2 +1,2 @@
 # CtCI-6th
-Python solutions for Cracking The Coding Interview (6th edition)
+Python solutions for the Cracking The Coding Interview (6th edition)

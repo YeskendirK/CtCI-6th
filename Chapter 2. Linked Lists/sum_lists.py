@@ -68,9 +68,6 @@ def addLists(list1, list2):
 
     return out_list
 
-def addLists_followup(list1, list2):
-
-
 
 example_one = LinkedList()
 example_two = LinkedList()
